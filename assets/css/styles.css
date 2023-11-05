@@ -142,7 +142,7 @@ main::-webkit-scrollbar-thumb {
   height: 50vh;
   border: 0.5px solid var(--main-muted-color);
   padding: 10px;
-  transition: filter 1s ease-in-out;
+  transition: filter .3s ease-in-out;
 }
 
 
